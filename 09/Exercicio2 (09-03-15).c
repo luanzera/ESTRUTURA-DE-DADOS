@@ -1,3 +1,6 @@
+/* Criar código em C implementando um menu com as seguintes opções:
+1 - VETOR, 2 - MATRIZ, 3 - PONTEIRO, 4 - SAIR. Obs: Usarr o comando while. */
+
 #include <stdio.h>
 
 int main() {
